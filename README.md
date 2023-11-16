@@ -1,0 +1,2 @@
+# Mobile Details Dashboard for Power BI
+ Mobile Details Dashboard project! This Power BI dashboard is designed to provide comprehensive insights into mobile details for multiple companies. It offers a visual and interactive interface to explore key metrics such as market share, pricing, model distribution, and brand comparisons. This tool empowers decision-makers with valuable information for strategic planning and competitive analysis in the mobile industry.
